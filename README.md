@@ -1,6 +1,3 @@
-Dưới đây là nội dung mẫu hoàn chỉnh cho file **README.md** mà bạn có thể dán trực tiếp vào GitHub (ở khung như trong ảnh cuối cùng):
-
----
 
 # 🧩 EProject Microservices - Node.js, Express, MongoDB, RabbitMQ
 
@@ -178,8 +175,3 @@ EProject/
 
 **Nguyễn Nhật Minh Quang – 22644411**
 💼 *EProject - Microservices Architecture with Node.js*
-
----
-
-Bạn có muốn mình thêm **hình sơ đồ kiến trúc (diagram)** trực quan (vẽ dạng ảnh minh họa hệ thống microservices) vào README không?
-Nếu có, mình có thể tạo giúp một hình `.png` phù hợp để bạn up lên GitHub.
