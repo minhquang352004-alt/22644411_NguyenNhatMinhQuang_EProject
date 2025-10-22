@@ -57,6 +57,8 @@ services:
       - rabbitmq
     networks:
       - eproject-network
+    volumes:
+      - ./product:/app
     command: ["node", "index.js"]
 
   # Order service
