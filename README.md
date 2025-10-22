@@ -169,7 +169,9 @@ EProject/
 └── README.md
 ```
 
----
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8179bc24-9cac-4877-a152-09e9c77edb35" />
+sau khi CI/CD lên docker hub 
+
 
 ## 👨‍💻 Tác giả
 
